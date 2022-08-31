@@ -1,0 +1,32 @@
+{
+    "entities": [
+        {
+            "x": 1,
+            "y": 1,
+            "type": "player"
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "type": "sword"
+        },
+        {
+            "x": 9,
+            "y": 9,
+            "type": "spider"
+        },
+        {
+            "x": 10,
+            "y": 9,
+            "type": "boulder"
+        },
+        {
+            "x": 8,
+            "y": 8,
+            "type": "exit"
+        }
+    ],
+    "goal-condition": {
+        "goal": "exit"
+    }
+}
